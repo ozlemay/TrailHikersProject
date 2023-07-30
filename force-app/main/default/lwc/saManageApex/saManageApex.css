@@ -1,0 +1,18 @@
+:host {
+  --sds-c-card-color-background: white;
+}
+
+.sa-tile {
+  display: inline-block;
+  border: 1px solid #9b9b9c;
+  border-radius: .25rem;
+  background-color: rgb(190, 214, 241);
+}
+
+.salist_container {
+  margin-inline: unset;
+}
+
+.slds-card__body_inner {
+  background-color: unset;
+}
